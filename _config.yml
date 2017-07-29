@@ -18,7 +18,7 @@ description: > # this means to ignore newlines until "baseurl:"
   If you are a ninja, you need never justify yourself save to your senpai.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "doyouneedareason.ninja"
-permalink: /:title
+permalink: /:title/
 
 # Build settings
 markdown: kramdown
