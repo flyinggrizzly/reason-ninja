@@ -1,3 +1,8 @@
-![You're a pirate!](https://media.giphy.com/media/SSmDlehhBmGvm/giphy.gif)
+---
+title: You are not a ninja?!!???!?!!
+---
 
-You *totally* need a reason.
+Are you a pirate?
+
+- [Yes](/pirate/)
+- [No](/not-a-pirate/)
