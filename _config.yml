@@ -20,6 +20,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "doyouneedareason.ninja"
 permalink: /:title/
 
+exclude: [s3_website.yml]
+
 # Build settings
 markdown: kramdown
 
