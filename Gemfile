@@ -17,6 +17,11 @@ gem "minima", "~> 2.0"
 # Use S3 for hosting
 gem 's3_website'
 
+# HTML Proofing and checking 
+gem 'html-proofer'
+
+gem 'rake'
+
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
 # gem "github-pages", group: :jekyll_plugins

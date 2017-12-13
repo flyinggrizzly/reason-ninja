@@ -9,3 +9,4 @@ Are you a ninja?
 - [Yes](/ninja/)
 - [No](/not-a-ninja/)
 
+Update 1 (from local), 2017-12-13
